@@ -4,3 +4,10 @@
   text-decoration: underline;
   text-decoration-color: #6aea4acc;
 }
+
+.reviews-container {
+  display: flex;
+  flex-direction: column;
+  gap: 46px;
+  margin-top: 46px;
+}
